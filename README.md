@@ -26,7 +26,7 @@ http://getalfa.rf.gd/
 
 #Alfa_Team
 
-T.me/@Solevisible
+https://telegram.me/solevisible
 
 Release Date: 2020-06-02
 
@@ -53,4 +53,4 @@ http://getalfa.rf.gd/
 
 #Alfa_Team
 
-T.me/@Solevisible
+https://telegram.me/solevisible
