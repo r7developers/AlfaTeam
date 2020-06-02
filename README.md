@@ -19,9 +19,13 @@ Paging folders with a lot of files for faster loading
 Bug fixes and other minor improvements.
 
 Alfa Shell V4-Tesla
+
 Just try once...
+
 http://getalfa.rf.gd/
+
 #Alfa_Team
+
 T.me/@Solevisible
 
 Release Date: 2020-06-02
