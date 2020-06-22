@@ -1,4 +1,4 @@
-..:: ALFA TEaM Shell ~ v4.0-Tesla ::..
+..:: ALFA TEaM Shell ~ v4.1-Tesla ::..
 
 <p>Name filter in file manager for quick access</p>
 <p>Pop-up terminal, ability to opening multiple terminals simultaneously and customizing</p>
@@ -18,14 +18,17 @@
 <p>Paging folders with a lot of files for faster loading</p>
 <p>Bug fixes and other minor improvements.</p>
 
-Alfa Shell V4-Tesla
+<p>[+] New features:</p>
 
+<p>Redesigned Mysql Manager ~ Easy and powerfull !</p>
+<p>Multiple File Manager ! ~ You can open multiple folders at the same time and manage them</p>
+<p>In the editor [ control +s ] shortkey has been added for save files</p>
+<p>Added [ ALFA_DATA ] as a Alfa Parent Folder. Thats mean all folders like: alfacgiapi, alfasymlinks, etc... they will be craeted in the ALFA_DATA folder.</p>
+
+Alfa Shell V4.1-Tesla
 Just try once...
 
-http://getalfa.rf.gd/
-
-#Alfa_Team
-
+http://dl.solevisible.com
 https://telegram.me/solevisible
 
-Release Date: 2020-06-02
+~ Alfa_Team/solevisible
