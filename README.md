@@ -35,3 +35,6 @@ Just try once...
 
 
 ![](https://blog.sucuri.net/wp-content/uploads/2020/10/alfa_team_web_shell_new_release-1536x1149.png)
+
+
+![](https://blog.sucuri.net/wp-content/uploads/2020/10/alfa_team_web_shell_phishing_page.gif)
