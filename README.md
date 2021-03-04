@@ -28,7 +28,4 @@
 Alfa Shell V4.1-Tesla
 Just try once...
 
-http://dl.solevisible.com<br>
-https://telegram.me/solevisible
-
 ~ Alfa_Team/solevisible
